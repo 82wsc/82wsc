@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&pause=1000&color=353535&background=F473FF00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+SeungWon+%F0%9F%91%8B+)](https://git.io/typing-svg)
 <!--
 **82wsc/82wsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
