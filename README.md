@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 |<sub>2024.03</sub> | **🏫 EcCuseme** | ECC 출구찾기 | |
 |<sub>2024.10</sub> | **🐍 Auto Blog** | 네이버 블로그 목차 생성기 & 알고리즘 문제풀이 자동서식 | [🐈](https://github.com/seondal/AutoBlog) &nbsp; [🔗](https://auto-blog.seondal.kr) |
 |<sub>2023.09 ~ 24.06</sub> | **🎤 Pitch Finder** | 음역대 축정 기반 노래 필터링 서비스, 피치파인더 | [🐈](https://github.com/K-CoB/docs) &nbsp; [🔗](https://pitch-finder.seondal.kr) |
-|<sub>2023.08</sub> | **🐦 Team Info Table** | Team Info Table for Github Readme | [🐈](https://github.com/seondal/TIT) &nbsp; [🔗](https://team-info-table.seondal.kr) |
+|<sub>2024.03 ~ 24.06</sub> | **🍳 Find Table** | 매장 내 실시간 잔여 좌석 탐지 시스템 | [🔗](https://github.com/82wsc/eggnoodle) |
 |<sub>2023.10 ~ 23.12</sub> | **🚑Ruminus** | 시니어 웰니스 케어 플랫폼 | [🔗](https://github.com/82wsc/rumi_flutter) |
 
 </div>
