@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=82wsc)](https://github.com/82wsc/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=82wsc)](https://github.com/82wsc/github-readme-stats)
+
 <!--
 **82wsc/82wsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,32 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<details>
-<summary>Projects</summary>
-<div markdown="1">
 
-
-|출시|프로젝트|소개|바로가기|
-|:-:|:-|:-|:-:|
-|<sub>2025.01 ~ 25.02</sub> | **🚢 NamHaeRo** | 포스트 터널 시대를 위한 남해군 가치 상승 솔루션, 남해로 | [🔗](https://github.com/82wsc/NamHaeRo) |
-|<sub>2024.03 ~ 24.06</sub> | **🍳 Find Table** | 매장 내 실시간 잔여 좌석 탐지 시스템 | [🔗](https://github.com/82wsc/eggnoodle) |
-|<sub>2023.10 ~ 23.12</sub> | **🚑Ruminus** | 시니어 웰니스 케어 플랫폼 | [🔗](https://github.com/82wsc/rumi_flutter) |
-
-</div>
-</details>
-
-<details>
-<summary>Activity</summary>
-<div markdown="1">
-  
-|기간|활동|기수|
-|:-:|-:|:-|
-|<sub>2025.01 ~ 25.02</sub>| 인프런 AI 커리어 스쿨 (in 부산 · 울산 · 경남) | 1기 |
-|<sub>2024.09 ~ 25.02</sub> | KT AIVLE School | 6기 | 
-|<sub>2023.08 ~ 23.12</sub> | 디지털 스마트 부산 아카데미 | 3기 | 
-
-</div>
-</details>
 <details>
   <summary>🔨 In Practice & Study </summary>
   <div markdown="1">
@@ -95,4 +69,30 @@ Here are some ideas to get you started:
   </div>
 </details>
 
+<details>
+<summary>Projects</summary>
+<div markdown="1">
+
+
+|출시|프로젝트|소개|바로가기|
+|:-:|:-|:-|:-:|
+|<sub>2025.01 ~ 25.02</sub> | **🚢 NamHaeRo** | 포스트 터널 시대를 위한 남해군 가치 상승 솔루션, 남해로 | [🔗](https://github.com/82wsc/NamHaeRo) |
+|<sub>2024.03 ~ 24.06</sub> | **🍳 Find Table** | 매장 내 실시간 잔여 좌석 탐지 시스템 | [🔗](https://github.com/82wsc/eggnoodle) |
+|<sub>2023.10 ~ 23.12</sub> | **🚑Ruminus** | 시니어 웰니스 케어 플랫폼 | [🔗](https://github.com/82wsc/rumi_flutter) |
+
+</div>
+</details>
+
+<details>
+<summary>Activity</summary>
+<div markdown="1">
+  
+|기간|활동|기수|
+|:-:|-:|:-|
+|<sub>2025.01 ~ 25.02</sub>| 인프런 AI 커리어 스쿨 (in 부산 · 울산 · 경남) | 1기 |
+|<sub>2024.09 ~ 25.02</sub> | KT AIVLE School | 6기 | 
+|<sub>2023.08 ~ 23.12</sub> | 디지털 스마트 부산 아카데미 | 3기 | 
+
+</div>
+</details>
 
