@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 |<sub>2023.08 ~ 23.12</sub> | 디지털 스마트 부산 아카데미 | 3기 | 
 
 </div>
+</details>
 <details>
   <summary>Once I've used 🔨</summary>
   <div markdown="1">
