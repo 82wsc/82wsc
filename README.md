@@ -20,7 +20,8 @@ Here are some ideas to get you started:
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+        <img src="https://img.shields.io/badge/?style=for-the-badge&logo=spring boot&logoColor=white">
+        <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
