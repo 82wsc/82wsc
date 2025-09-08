@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </div>
 </details>
 <details>
-  <summary>Once I've used 🔨</summary>
+  <summary>🔨 In Practice & Study </summary>
   <div markdown="1">
 
   <h4>Backend</h4>
