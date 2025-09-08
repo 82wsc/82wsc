@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <details>
-  <summary>🔨 In Practice & Study </summary>
+  <summary>✏️In Practice & Study </summary>
   <div markdown="1">
 
   <h4>Backend</h4>
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary>Projects</summary>
+<summary>🔨Projects</summary>
 <div markdown="1">
 
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary>Activity</summary>
+<summary>🏃‍♂️Activity</summary>
 <div markdown="1">
   
 |기간|활동|기수|
