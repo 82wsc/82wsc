@@ -39,50 +39,48 @@ Here are some ideas to get you started:
 |<sub>2023.08 ~ 23.12</sub> | 디지털 스마트 부산 아카데미 | 3기 | 
 
 </div>
-</details>
-
 <details>
   <summary>Once I've used 🔨</summary>
   <div markdown="1">
 
   <!-- Backend -->
-  **Backend**  
-  <div> 
+  <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin:8px 0 14px;">
+    <span style="font-weight:600; padding:2px 8px; border-radius:6px; background:#f2f2f2;">Backend</span>
     <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   </div>
 
   <!-- Database -->
-  **Database**  
-  <div> 
+  <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin:8px 0 14px;">
+    <span style="font-weight:600; padding:2px 8px; border-radius:6px; background:#f2f2f2;">Database</span>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
   </div>
 
   <!-- Server -->
-  **Server**  
-  <div>
+  <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin:8px 0 14px;">
+    <span style="font-weight:600; padding:2px 8px; border-radius:6px; background:#f2f2f2;">Server</span>
     <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" /> 
   </div>
 
   <!-- Frontend -->
-  **Frontend**  
-  <div>
+  <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin:8px 0 14px;">
+    <span style="font-weight:600; padding:2px 8px; border-radius:6px; background:#f2f2f2;">Frontend</span>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   </div>
 
   <!-- Development Tools -->
-  **Development Tools**  
-  <div>
+  <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin:8px 0 14px;">
+    <span style="font-weight:600; padding:2px 8px; border-radius:6px; background:#f2f2f2;">Development Tools</span>
     <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" />
     <img src="https://img.shields.io/badge/anaconda-%2344A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
   </div>
 
   <!-- Others -->
-  **Others**  
-  <div>
+  <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin:8px 0 14px;">
+    <span style="font-weight:600; padding:2px 8px; border-radius:6px; background:#f2f2f2;">Others</span>
     <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
@@ -90,3 +88,4 @@ Here are some ideas to get you started:
 
   </div>
 </details>
+
