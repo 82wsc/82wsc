@@ -43,6 +43,12 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
+    <!-- Development Tools -->
+    <p><strong>Development Tools</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+        <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" />
+    </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
