@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=82wsc)](https://github.com/82wsc/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=82wsc)](https://github.com/82wsc/github-readme-stats)
 <!--
 **82wsc/82wsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
