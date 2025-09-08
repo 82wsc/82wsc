@@ -59,7 +59,8 @@ Here are some ideas to get you started:
 
   <h4>Server</h4>
   <div>
-    <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   </div>
 
   <h4>Frontend</h4>
